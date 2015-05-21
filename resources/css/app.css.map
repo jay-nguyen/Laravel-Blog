@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/home.scss","app.scss"],"names":[],"mappings":"AAAA;EACQ,YAAA,EAAA;;ACCR;EACc,mBAAA,EAAA;;AAGD;EACZ,kBAAa,EAAA","file":"app.css","sourcesContent":[".home {\n\tcolor: red;\n}","@import 'pages/home';\n\nbody {\n\tpadding-top: 40px;\n}\n\nbody, label, .checkbox label {\n\tfont-weight: 300;\n}"],"sourceRoot":"/source/"}
